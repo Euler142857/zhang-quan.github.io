@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "张泉 / zhang quan"
   avatar           : "profile.png"
-  bio              : "数学虐我千百遍，我待数学如初恋"
+  bio              : "数学虐我千百遍, 我待数学如初恋"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : zhangmath142857@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
